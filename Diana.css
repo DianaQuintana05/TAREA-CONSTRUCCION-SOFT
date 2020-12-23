@@ -1,0 +1,29 @@
+h2
+{
+    color:rebeccapurple
+
+}
+
+section{
+    background:cornsilk;
+    width: 20%;
+    display: inline-block;
+    margin: 24px;   /** separación entre tablas**/
+    margin-top: 50px;
+    padding-right: 5px;
+    border: 4px solid #b5fe2e;
+  
+}
+
+.fondo{
+    width: 100%;
+    opacity: 0.25;
+    position: fixed;
+    margin: 1px;
+}
+
+.con{
+
+    text-align: center;
+
+}
